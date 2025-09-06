@@ -8,21 +8,32 @@ The queries cover real-world business analysis scenarios such as revenue trends,
 
 ## 🗂️ Dataset Description
 
-The dataset (`Ecommerce`) contains over **10,000+** rows of customer transactions.
+The dataset (`Walmart`) contains over **10,000+** rows of customer transactions.
 
 **Key columns:**
-- `invoice_id`
-- `Branch`
-- `City`
-- `Category`
-- `Unit_price`
-- `Quantity`
-- `Price`
-- `Payment_method`
-- `Rating`
-- `Profit_margin`
-- `Date`
-- `Time`
+- `invoice_id` → Unique invoice number  
+- `Branch` → Store branch (e.g., A, B, C)  
+- `City` → Store location  
+- `category` → Product category  
+- `unit_price` → Price per unit  
+- `quantity` → Number of units sold  
+- `Price` → Total sales value (unit_price × quantity)  
+- `payment_method` → Customer’s payment method  
+- `rating` → Customer satisfaction rating  
+- `profit_margin` → Profit percentage per transaction  
+- `date` → Date of transaction  
+- `time` → Time of transaction 
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **MySQL**
+- **Data Cleaning / Data Transformation**
+- **Aggregate Functions**
+- **Window Function**
+- **Time-based Analysis**
+- **Common Table Expressions (CTEs)**
 
 ---
 
