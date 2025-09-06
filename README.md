@@ -8,7 +8,7 @@ The queries cover real-world business analysis scenarios such as revenue trends,
 
 ## 🗂️ Dataset Description
 
-The dataset (`retail`) contains over **10,000+** rows of customer transactions.
+The dataset (`Ecommerce`) contains over **10,000+** rows of customer transactions.
 
 **Key columns:**
 - `invoice_id`
