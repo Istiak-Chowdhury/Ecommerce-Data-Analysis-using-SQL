@@ -60,7 +60,36 @@ The dataset (`Walmart`) contains over **10,000+** rows of customer transactions.
 2) Monthly sales trend
 3) Sales by weekday
 
+### 🔥 Advanced Insights
+1) Top invoices by sales value
+2) City-wise highest revenue categories
+3) Top 3 categories by profit margin per city
+4) Monthly sales growth (last 6 months)
 
+---
+
+ ## 🔗 Key Learnings
+- SQL window functions for ranking & moving averages
+- Time-series analysis with MySQL date functions
+- Customer segmentation by payment, rating, and purchase category
+- Revenue and profitability insights at branch/city level
+
+---
+
+# 📌 Conclusion & Strategic Insights
+
+- The Walmart sales analysis reveals patterns that can directly support strategic decision-making.  
+- Revenue contribution varies across branches and cities, indicating the need to focus on high-performing regions while identifying opportunities for growth in weaker areas. Product categories also show clear differences in profitability, which highlights where marketing, promotions, and inventory investments should be directed.  
+- Customer behavior insights, such as payment preferences and product ratings, provide an opportunity to design more customer-centric strategies. Furthermore, peak sales hours and monthly growth patterns suggest that aligning staffing, promotions, and stock availability with demand cycles can significantly improve efficiency.  
+
+By acting on these findings, Walmart can make more informed decisions to maximize revenue, optimize operations, and enhance customer satisfaction.
+
+
+---
+
+👤 Istiak Chowdhury
+📧 istiakopu.chy@gmail.com
+💼 Data Analyst | SQL, Python, Power BI, Excel
 
 
 
