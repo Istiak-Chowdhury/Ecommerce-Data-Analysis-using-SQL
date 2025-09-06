@@ -40,10 +40,8 @@ The dataset (`Walmart`) contains over **10,000+** rows of customer transactions.
 ## 🔍 Key Business Questions & Insights
 ### 📊 Sales & Revenue Analysis
 1) Total Branches
-   ```sql
-SELECT COUNT(DISTINCT Branch) AS Total_Branch FROM walmart;
-3) Total revenue
-4) Top 5 categories by revenue
+2) Total revenue
+3) Top 5 categories by revenue
 
 ### 💰 Profitability Insights
 1) Average profit margin
@@ -67,6 +65,11 @@ SELECT COUNT(DISTINCT Branch) AS Total_Branch FROM walmart;
 2) City-wise highest revenue categories
 3) Top 3 categories by profit margin per city
 4) Monthly sales growth (last 6 months)
+
+---
+
+## 📄 Source Code
+
 
 ---
 
