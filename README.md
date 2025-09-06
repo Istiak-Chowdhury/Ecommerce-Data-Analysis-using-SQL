@@ -81,7 +81,7 @@ The dataset (`Walmart`) contains over **10,000+** rows of customer transactions.
 
 ---
 
-# 📌 Conclusion & Strategic Insights
+## 📌 Conclusion & Strategic Insights
 
 - The Walmart sales analysis reveals patterns that can directly support strategic decision-making.  
 - Revenue contribution varies across branches and cities, indicating the need to focus on high-performing regions while identifying opportunities for growth in weaker areas. Product categories also show clear differences in profitability, which highlights where marketing, promotions, and inventory investments should be directed.  
