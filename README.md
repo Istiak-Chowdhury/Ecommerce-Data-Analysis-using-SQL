@@ -8,7 +8,7 @@ The queries cover real-world business analysis scenarios such as revenue trends,
 
 ## Dataset Description
 The dataset (walmart) contains sales records with the following key fields:
-invoice_id → Unique invoice number
+- invoice_id → Unique invoice number
 Branch → Store branch
 City → Store location
 category → Product category
