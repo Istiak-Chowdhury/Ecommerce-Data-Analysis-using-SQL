@@ -38,8 +38,27 @@ The dataset (`Walmart`) contains over **10,000+** rows of customer transactions.
 ---
 
 ## 🔍 Key Business Questions & Insights
-## 📊 Sales & Revenue Analysis
-### i) Total Branches
+### 📊 Sales & Revenue Analysis
+#### Total Branches
+#### Total revenue
+#### Top 5 categories by revenue
+
+### 💰 Profitability Insights
+#### Average profit margin
+#### Most profitable categories
+
+### 👌 Branch & City Performance
+#### Revenue by city
+#### Best performing branch
+
+### 👥 Customer Behavior
+#### Most used payment method
+#### Average rating per category
+
+### ⏱ Time-Based Analysis
+#### Peak sales hours
+#### Monthly sales trend
+#### Sales by weekday
 
 
 
