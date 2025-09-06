@@ -44,21 +44,21 @@ The dataset (`Walmart`) contains over **10,000+** rows of customer transactions.
 3) Top 5 categories by revenue
 
 ### 💰 Profitability Insights
-#### Average profit margin
-#### Most profitable categories
+1) Average profit margin
+2) Most profitable categories
 
 ### 👌 Branch & City Performance
-#### Revenue by city
-#### Best performing branch
+1) Revenue by city
+2) Best performing branch
 
 ### 👥 Customer Behavior
-#### Most used payment method
-#### Average rating per category
+1) Most used payment method
+2) Average rating per category
 
 ### ⏱ Time-Based Analysis
-#### Peak sales hours
-#### Monthly sales trend
-#### Sales by weekday
+1) Peak sales hours
+2) Monthly sales trend
+3) Sales by weekday
 
 
 
