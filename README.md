@@ -69,7 +69,7 @@ The dataset (`Walmart`) contains over **10,000+** rows of customer transactions.
 ---
 
 ## 📄 Source Code
-📍 [Walmart Ecmommerce Sales Data Analysis](https://github.com/Istiak-Chowdhury/Ecommerce-Data-Analysis-using-SQL/blob/485df2d89bdbf7b41451b47c8064d81a975afafc/walmart.csv) Source Code.
+📍 [Walmart Ecommerce Sales Data Analysis](https://github.com/Istiak-Chowdhury/Ecommerce-Data-Analysis-using-SQL/blob/485df2d89bdbf7b41451b47c8064d81a975afafc/walmart.csv) Source Code.
 
 ---
 
