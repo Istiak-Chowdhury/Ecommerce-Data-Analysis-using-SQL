@@ -12,7 +12,7 @@ The dataset (`Walmart`) contains over **10,000+** rows of customer transactions.
 
 **Key columns:**
 - `Invoice_id` → Unique invoice number  
-- `Branch` → Store branch (e.g., A, B, C)  
+- `Branch` → Store branch 
 - `City` → Store location  
 - `Category` → Product category  
 - `Unit_price` → Price per unit  
@@ -39,9 +39,9 @@ The dataset (`Walmart`) contains over **10,000+** rows of customer transactions.
 
 ## 🔍 Key Business Questions & Insights
 ### 📊 Sales & Revenue Analysis
-#### Total Branches
-#### Total revenue
-#### Top 5 categories by revenue
+1) Total Branches
+2) Total revenue
+3) Top 5 categories by revenue
 
 ### 💰 Profitability Insights
 #### Average profit margin
